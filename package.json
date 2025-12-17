@@ -1,0 +1,20 @@
+{
+  "name": "passport-authentication",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "connect-mongodb-session": "^5.0.0",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "mongoose": "^8.5.3",
+    "passport": "^0.7.0",
+    "passport-local": "^1.0.0"
+  }
+}
